@@ -57,3 +57,6 @@ CREATE TABLE medicalrecords(
     FOREIGN KEY (animalid) REFERENCES animals(animalid),
     FOREIGN KEY (doctorid) REFERENCES doctors(doctorid)
 );
+
+INSERT INTO owners(ownerid, ofirstname, olastname, address, phone, email)
+VALUES()
