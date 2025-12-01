@@ -84,3 +84,17 @@ VALUES
 (9, 'Toby', 'Dog', 'Dachshund', '2022-06-01', 'Male', 'Red', 9),
 (10, 'Zoe', 'Cat', 'Bengal', '2020-12-25', 'Female', 'Spotted Brown', 10);
 
+INSERT INTO appointments (appointid, animalid, appointdate, reason) 
+VALUES
+(1, 1, '2025-11-01', 'Checkup'),
+(2, 2, '2025-11-05', 'Vaccination'),
+(3, 3, '2025-11-10', 'Injury'),
+(4, 4, '2025-11-15', 'Dental'),
+(5, 5, '2025-11-20', 'Skin'),
+(6, 6, '2025-11-25', 'Flea Treatment'),
+(7, 7, '2025-11-30', 'Vaccination'),
+(8, 8, '2025-12-01', 'Surgery'),
+(9, 9, '2025-12-05', 'Allergy'),
+(10, 10, '2025-12-10', 'Conjunctivitis');
+
+
