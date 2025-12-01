@@ -71,3 +71,16 @@ VALUES
 (9, 'James', 'Martinez', '852 Poplar Ave, Ocean View, ST 66778', '(555) 210-9876', 'jmartinez@email.com'),
 (10, 'Jennifer', 'Garcia', '248 Maple Street, Woodland, ST 99887', '(555) 345-6789', 'jen.garcia@email.com');
 
+INSERT INTO animals (animalid, name, species, breed, dateofbirth, gender, color, ownerid) 
+VALUES
+(1, 'Max', 'Dog', 'Labrador Retriever', '2020-03-15', 'Male', 'Golden', 1),
+(2, 'Luna', 'Cat', 'Domestic Shorthair', '2021-07-04', 'Female', 'Calico', 2),
+(3, 'Charlie', 'Dog', 'German Shepherd', '2019-11-20', 'Male', 'Black and Tan', 3),
+(4, 'Bella', 'Cat', 'Maine Coon', '2022-01-10', 'Female', 'Tabby', 4),
+(5, 'Buddy', 'Dog', 'Beagle', '2018-05-30', 'Male', 'Tri-color', 5),
+(6, 'Daisy', 'Cat', 'Siamese', '2020-09-12', 'Female', 'Cream Point', 6),
+(7, 'Rocky', 'Dog', 'Boxer', '2021-02-28', 'Male', 'Brindle', 7),
+(8, 'Molly', 'Cat', 'Persian', '2019-04-17', 'Female', 'White', 8),
+(9, 'Toby', 'Dog', 'Dachshund', '2022-06-01', 'Male', 'Red', 9),
+(10, 'Zoe', 'Cat', 'Bengal', '2020-12-25', 'Female', 'Spotted Brown', 10);
+
