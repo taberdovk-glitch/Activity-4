@@ -59,4 +59,15 @@ CREATE TABLE medicalrecords(
 );
 
 INSERT INTO owners(ownerid, ofirstname, olastname, address, phone, email)
-VALUES()
+VALUES
+(1, 'John', 'Doe', '123 Main Street, Anytown, ST 12345', '(555) 123-4567', 'john.doe@email.com'),
+(2, 'Jane', 'Smith', '456 Oak Avenue, Smallville, ST 67890', '(555) 987-6543', 'jane.smith@email.com'),
+(3, 'David', 'Johnson', '789 Pine Road, Metro City, ST 13579', '(555) 333-7777', 'david.j@email.com'),
+(4, 'Maria', 'Lopez', '321 Birch Boulevard, Lakeside, ST 24680', '(555) 222-1111', 'maria.lopez@email.com'),
+(5, 'Robert', 'Brown', '654 Cedar Lane, Hilltop, ST 97531', '(555) 876-5432', 'r.brown@email.com'),
+(6, 'Sarah', 'Wilson', '987 Elm Street, Rivertown, ST 86420', '(555) 456-7890', 'sarah.wilson@email.com'),
+(7, 'Michael', 'Davis', '159 Spruce Street, Mountain View, ST 11223', '(555) 789-0123', 'michael_davis@email.com'),
+(8, 'Emily', 'Miller', '753 Willow Road, Desert City, ST 44556', '(555) 012-3456', 'emily.miller@email.com'),
+(9, 'James', 'Martinez', '852 Poplar Ave, Ocean View, ST 66778', '(555) 210-9876', 'jmartinez@email.com'),
+(10, 'Jennifer', 'Garcia', '248 Maple Street, Woodland, ST 99887', '(555) 345-6789', 'jen.garcia@email.com');
+
