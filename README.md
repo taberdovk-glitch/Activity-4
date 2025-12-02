@@ -2,4 +2,4 @@
 
 ## Collaborators
 - Llanos, Khalil Bernz, P.
-- Tbaerdo, Valerie Kristine, A.
+- Taberdo, Valerie Kristine, A.
